@@ -1,13 +1,12 @@
 
 
-  <h1>Hi there, I'm Vishal V Nair       
+  <h1>Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1> , I'm Vishal V Nair       
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
-   <iframe src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">via GIPHY</a></p>
+   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 
-
-A Computer Science student with a passion for exploring the exciting realms of technology. 👨‍💻
+A Passionate CSE stud6ent exploring the exciting realms of technology. 👨‍💻
 
 #### About Me
 
