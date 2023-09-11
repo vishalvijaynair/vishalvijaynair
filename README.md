@@ -1,5 +1,8 @@
 ### Hi there, I'm Vishal V Nair 👋
 
+
+
+
 I'm a Computer Science student with a passion for exploring the exciting realms of technology. 👨‍💻
 
 #### About Me
@@ -9,11 +12,6 @@ I'm a Computer Science student with a passion for exploring the exciting realms 
 - 💡 I'm fascinated by emerging technologies like Artificial Intelligence.
 - 🚀 I'm on a journey to become a skilled and aspiring software engineer.
 
-#### What I'm up to
-
-- 💻 Currently, I'm working on various coding projects and learning new programming languages.
-- 📚 I'm constantly expanding my knowledge in Machine Learning and Cybersecurity.
-- 🤖 Exploring the limitless possibilities of AI and its applications.
 
 #### Let's Connect
 
