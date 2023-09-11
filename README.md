@@ -1,4 +1,40 @@
-### Hi there, I'm Vishal V Nair 👋
+<!-- Animated and Wavy Header -->
+<div style="position: relative;">
+  <img src="https://your-profile-image-url.jpg" alt="Your Profile Image" width="150" height="150" style="border-radius: 50%; animation: float 3s infinite; position: absolute; top: -50px; left: 50%;">
+  <h1 style="animation: wave 2s infinite; position: relative; text-align: center;">Hi there, I'm Vishal V Nair 👋</h1>
+</div>
+
+<style>
+  @keyframes float {
+    0% {
+      transform: translate(0, 0);
+    }
+    50% {
+      transform: translate(0, -10px);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }
+
+  @keyframes wave {
+    0% {
+      transform: translate(0, 0) rotate(0deg);
+    }
+    25% {
+      transform: translate(0, -5px) rotate(-2deg);
+    }
+    50% {
+      transform: translate(0, 0) rotate(0deg);
+    }
+    75% {
+      transform: translate(0, 5px) rotate(2deg);
+    }
+    100% {
+      transform: translate(0, 0) rotate(0deg);
+    }
+  }
+</style>
 
 
 
