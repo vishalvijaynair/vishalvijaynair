@@ -1,6 +1,6 @@
 
 
-  <h1 style="animation: wave 2s infinite; position: relative; text-align: center;">Hi there, I'm Vishal V Nair 👋</h1>
+  <h1>Hi there, I'm Vishal V Nair<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
 
 
