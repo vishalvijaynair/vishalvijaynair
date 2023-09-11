@@ -21,8 +21,9 @@ I'm a Computer Science student with a passion for exploring the exciting realms 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvnair) 
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/vishalvijay074)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/__vvn__7/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/vishalvijay074)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/__vvn__7/)
+
 
 
 # 💻 Tech Stack:
