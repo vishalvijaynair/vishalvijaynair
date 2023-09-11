@@ -11,8 +11,8 @@ A Passionate CSE student exploring the exciting realms of technology. 👨‍�
 
 - 🌱 I'm currently studying Computer Science and Engineering .
 - 🔍 I'm interested in Machine Learning and Cybersecurity.
-- 💡 I'm fascinated by emerging technologies like Artificial Intelligence.
-- 🚀 I'm on a journey to become a skilled and aspiring software engineer.
+- 💡 I'm fascinated by emerging technologies like AI | DLT
+- - 🚀 I'm on a journey to become a skilled and aspiring software engineer.
 
 
 #### Let's Connect
