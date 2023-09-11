@@ -1,11 +1,11 @@
 
 
-  <h1>Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I'm Vishal V Nair  </h1>
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I'm Vishal V Nair  </h1>
    <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-A Passionate CSE stud6ent exploring the exciting realms of technology. 👨‍💻
+A Passionate CSE student exploring the exciting realms of technology. 👨‍💻
 
 #### About Me
 
