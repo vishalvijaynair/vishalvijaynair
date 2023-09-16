@@ -18,7 +18,7 @@ A Passionate CSE student exploring the exciting realms of technology. 👨‍�
 
 - 📫 Feel free to reach out to me if you share similar interests or just want to chat about tech!
 
-<img src="https://komarev.com/ghpvc/?username=vishalvijaynair&color=blue">
+
 
 ## 🌐 Socials:
 [![LinkedIn: Vishal](https://img.shields.io/badge/Vishal-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvnair) 
