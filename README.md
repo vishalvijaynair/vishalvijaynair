@@ -4,7 +4,7 @@
 
 
 
-A Passionate CSE student exploring the exciting realms of technology. 👨‍💻
+A Passionate CSE student 👨‍💻
 
 #### About Me
 
