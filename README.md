@@ -8,7 +8,7 @@ A Passionate CSE student 👨‍💻
 
 #### About Me
 
-- 🌱 I'm currently studying Computer Science and Engineering .
+- 🌱 I'm CSE Graduate .
 - 🔍 I'm interested in Android Development and Cybersecurity.
 - 💡 I'm fascinated by emerging technologies like LLM and LAM
 - 🚀 I'm on a journey to become a skilled and aspiring software engineer.
