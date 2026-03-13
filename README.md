@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal V Nair</h1>
+<h1 align="center">Hi 👋  I'm Vishal V Nair</h1>
 <h3 align="center">Mobile App Developer | React Native</h3>
 
 ---
